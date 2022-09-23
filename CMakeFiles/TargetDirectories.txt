@@ -1,0 +1,3 @@
+/home/wang/test5/CMakeFiles/test5.dir
+/home/wang/test5/CMakeFiles/edit_cache.dir
+/home/wang/test5/CMakeFiles/rebuild_cache.dir
